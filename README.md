@@ -17,5 +17,6 @@ The stack is composed of:
 - [my linkedin](https://www.linkedin.com/in/danielfcollier/)
 - blog: [https://danielfcollier.medium.com/](https://danielfcollier.medium.com/)
 - email: danielfcollier@gmail.com 
+- papers from my past as [Power Electronics Engineer](https://www.researchgate.net/profile/Daniel-A-F-Collier)
 
 ⚡ Fun fact: better tell you after you know me!
