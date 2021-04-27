@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a CRM project for a medical clinic. 
 
-It is a cloud-based project for database management, business automation, file backup system, payment service through API, and business report automation.
+It is a cloud-based project for database management, business automation, file backup system, payment service through API, email marketing, and business report automation.
 
 The stack is composed of:
 - Apps Script: for cloud-based software with cron jobs
