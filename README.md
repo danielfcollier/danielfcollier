@@ -11,7 +11,7 @@
 📂 Back-office automation: documents generation (receipts, email, pdf, docs, xlsx, csv), file/drive management, Google Sheets automation (Apps Script), XML digital signature, Google Workspace automation.
 
 📞 How to reach me: 
-- [my linkedin](https://www.linkedin.com/in/danielfcollier/)
+- [my linkedin](https://www.linkedin.com/in/danielfcollier)
 - email: danielfcollier@gmail.com 
-- blog: https://danielfcollier.github.io/
+- blog: https://danielfcollier.github.io
 - papers from my past as [Power Electronics Engineer](https://www.researchgate.net/profile/Daniel-A-F-Collier)
