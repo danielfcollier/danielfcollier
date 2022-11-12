@@ -8,7 +8,7 @@
 
 🧰 Main tooling: C# (.NET Core), JS/TS (Node, React, Next, Nest, jQuery), Documentation (OpenAPI, JsonSchema, Docusaurus), Linux (Bash, Awk, Make, Cron jobs, CLI tools), Docker, Git, CI-CD (GitLab Runner, GitHub Actions) SQL (Postgres), Python, PHP (WordPress, Magento), Jira.
 
-📂 Back-office automation: documents generation (receipts, email, pdf, docs, xlsx, csv), file/drive management, Google Sheets automation (Apps Script), XML digital signature, Google Workspace automation.
+📂 Back-office automation: document generation (receipts, email, pdf, docs, xlsx, csv), file/drive management, Google Sheets automation (Apps Script), XML digital signature, Google Workspace automation.
 
 📞 How to reach me: 
 - [my linkedin](https://www.linkedin.com/in/danielfcollier)
