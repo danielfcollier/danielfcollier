@@ -9,7 +9,7 @@
 
 ⬆️ Working on improving TDD, DevOps, Cloud, Architecture, and Microservices skills.
 
-🧰 Main tooling: C# (.NET Core), JS/TS (Node, Express, Fastify, Nest, React, Redux, Next, jQuery), Documentation (OpenAPI, JsonSchema, Docusaurus), Linux (Bash, Awk, Make, Cron jobs, CLI tools), Docker, Git, CI-CD (GitLab Runner, GitHub Actions), HTML, CSS, SASS, Tests (Jest, QUnit, Mocha, XUnit, Moq), SQL (Postgres), Python and Go (Scripting), PHP (WordPress, Magento), Jira.
+🧰 Main tooling: C# (.NET Core), JS/TS (Node, Express, Fastify, Nest, React, Redux, Next, jQuery), Documentation (OpenAPI, JsonSchema, Docusaurus), Linux (Bash, Awk, Make, Cron jobs, CLI tools), Docker, Git, CI-CD (GitHub Actions, GitLab Runner), HTML, CSS, SASS, Tests (Jest, QUnit, Mocha, XUnit, Moq), SQL (Postgres), Python and Go (Scripting), PHP (WordPress, Magento), Jira.
 
 📂 Back-office automation: document generation (receipts, email, pdf, docs, xlsx, csv); file/drive management; XML digital signature; Google Sheets and Workspace automation (Apps Script).
 
