@@ -26,10 +26,10 @@
 1. Domain Visistor Counter: https://github.com/danielfcollier/lab-domain-visitors-counter
 - Algorithmic code challenge
 - Extras:
--- Solutions in 3 languages (Golang, Pyhton, and JavaScript)
--- Dockerfile setup for each language
--- CI/CD with GitHub Actions
--- Integration test
+    - Solutions in 3 languages (Golang, Pyhton, and JavaScript)
+    - Dockerfile setup for each language
+    - CI/CD with GitHub Actions
+    - Integration test
 
 2. PERN Stack Setup: https://github.com/danielfcollier/environment-pern-stack-app
 - PERN (Postgres, Express, React, Node) setup with Dockerfile and Docker Compose
