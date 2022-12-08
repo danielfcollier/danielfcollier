@@ -18,3 +18,43 @@
 - email: danielfcollier@gmail.com 
 - blog: https://danielfcollier.github.io
 - papers from my past as [Power Electronics Engineer](https://www.researchgate.net/profile/Daniel-A-F-Collier)
+
+## Repositories
+
+### Job Applications for Mid-Level Positions
+
+1. Domain Visistor Counter: https://github.com/danielfcollier/lab-domain-visitors-counter
+- Algorithmic code challenge
+- Extras:
+-- Solutions in 3 languages (Golang, Pyhton, and JavaScript)
+-- Dockerfile setup for each language
+-- CI/CD with GitHub Actions
+-- Integration test
+
+2. PERN Stack Setup: https://github.com/danielfcollier/environment-pern-stack-app
+- PERN (Postgres, Express, React, Node) setup with Dockerfile and Docker Compose
+
+3. API REST
+- It was required to "deploy" with `ngrok` and test within an external test suit
+- Extras:
+-- Solution with many languages and stacks:
+--- https://github.com/danielfcollier/dotnet-api-rest
+--- https://github.com/danielfcollier/dotnet-minimal-api-rest
+--- https://github.com/danielfcollier/ts-nestjs-express-api-rest
+--- https://github.com/danielfcollier/js-nodejs-express-api-rest
+-- Dockerfile setup for each language
+-- CI/CD with GitHub Actions
+-- E2E tests with the specification
+
+4. Todolist API RESTful: https://github.com/danielfcollier/js-nodejs-fastify-todo-api-restful
+- It was required just a basic CRUD API
+- Extras:
+-- Dockerfile setup
+-- CI/CD with GitHub Actions
+-- Unit and E2E tests with the specification
+
+5. Virtual Card Generator with Next.js: https://github.com/danielfcollier/ts-nextjs-app-virtual-card-generator
+- Extras:
+-- Dockerfile setup
+-- CI/CD with GitHub Actions
+-- Basic UI testing setup
