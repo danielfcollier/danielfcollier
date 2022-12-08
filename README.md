@@ -54,6 +54,7 @@
     - Unit and E2E tests with the specification
 
 5. Virtual Card Generator with Next.js: https://github.com/danielfcollier/ts-nextjs-app-virtual-card-generator
+- It was required to be able to download the card after providing the user information
 - Extras:
     - Dockerfile setup
     - CI/CD with GitHub Actions
