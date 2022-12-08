@@ -59,3 +59,47 @@
     - Dockerfile setup
     - CI/CD with GitHub Actions
     - Basic UI testing setup
+
+### Just for Studing
+
+Working on:
+- https://github.com/danielfcollier/js-rabbitmq-lab
+- https://github.com/danielfcollier/environment-mern-stack-app
+- https://github.com/danielfcollier/dotnet-react-todo-app
+
+Finished:
+- https://github.com/danielfcollier/js-vanilla-app-registration-system
+- https://github.com/danielfcollier/js-vanilla-website-ecommerce-lp
+- https://github.com/danielfcollier/dotnet-sample-console-app
+- https://github.com/danielfcollier/dotnet-sample-async
+- https://github.com/danielfcollier/dotnet-sample-efcore
+
+### Side Projects
+
+https://github.com/danielfcollier/ts-gas-clinic-project
+https://github.com/danielfcollier/js-gas-app-registration-system
+https://github.com/danielfcollier/ts-gas-library
+https://github.com/danielfcollier/ts-gas-uservice-customer-creator
+https://github.com/danielfcollier/dotnet-uservice-pmf-integration
+https://github.com/danielfcollier/py-cli
+
+### Google Apps Script Projects
+
+1. Libraries
+- An useful library to use Google Sheets as a database (you shouldn't, but...): https://github.com/danielfcollier/js-gas-library-db-sheets
+- https://github.com/danielfcollier/js-gas-library-asaas-api
+
+2. Bots
+- Slack Birthday Remainder: https://github.com/danielfcollier/ts-gas-bot-slack-birthday-remainder
+
+3. Just a Guide
+- https://github.com/danielfcollier/js-vanilla-concepts
+
+### Open Source Projects I'm interested in
+
+https://github.com/danielfcollier/json-schema-ref-parser
+https://github.com/danielfcollier/webpack
+
+ ### My Website
+
+https://github.com/danielfcollier/danielfcollier.github.io
