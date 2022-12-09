@@ -76,12 +76,12 @@ Finished:
 
 ### Side Projects
 
-https://github.com/danielfcollier/ts-gas-clinic-project
-https://github.com/danielfcollier/js-gas-app-registration-system
-https://github.com/danielfcollier/ts-gas-library
-https://github.com/danielfcollier/ts-gas-uservice-customer-creator
-https://github.com/danielfcollier/dotnet-uservice-pmf-integration
-https://github.com/danielfcollier/py-cli
+- https://github.com/danielfcollier/ts-gas-clinic-project
+- https://github.com/danielfcollier/js-gas-app-registration-system
+- https://github.com/danielfcollier/ts-gas-library
+- https://github.com/danielfcollier/ts-gas-uservice-customer-creator
+- https://github.com/danielfcollier/dotnet-uservice-pmf-integration
+- https://github.com/danielfcollier/py-cli
 
 ### Google Apps Script Projects
 
@@ -97,9 +97,31 @@ https://github.com/danielfcollier/py-cli
 
 ### Open Source Projects I'm interested in
 
-https://github.com/danielfcollier/json-schema-ref-parser
-https://github.com/danielfcollier/webpack
+- https://github.com/danielfcollier/json-schema-ref-parser
+- https://github.com/danielfcollier/webpack
 
  ### My Website
 
 https://github.com/danielfcollier/danielfcollier.github.io
+
+### Electrical Engineering
+
+1. Work as Software Assistant:
+- https://github.com/danielfcollier/java-applet-cluster-status
+- https://github.com/danielfcollier/python-applet-cluster-status
+- https://github.com/danielfcollier/matlab-numeric-optimization
+
+2. R&D in Power Systems
+- https://github.com/danielfcollier/matlab-parametric-optimal-power-flow
+- https://github.com/danielfcollier/c-matwrap-code-optimization
+- https://github.com/danielfcollier/scilab-image-processing-scripts
+
+3. Master Thesis
+- https://github.com/danielfcollier/latex-master-thesis
+
+4. PhD Qualification
+- https://github.com/danielfcollier/latex-phd-qualification
+
+5. Paper Templates 
+- https://github.com/danielfcollier/latex-paper-template-digest
+- https://github.com/danielfcollier/latex-paper-template
