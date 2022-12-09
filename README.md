@@ -60,7 +60,7 @@
     - Developed with TypeScript
     - Dockerfile setup
     - CI/CD with GitHub Actions
-    - Basic UI testing setup
+    - Basic UI testing
 
 ---
 
