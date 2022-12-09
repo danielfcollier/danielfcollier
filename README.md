@@ -83,7 +83,7 @@ Finished:
 ### Side Projects
 
 - [uService routine to create customers in a medical clinic context. Tools: Google Apps Script, TypeScript, Webpack](https://github.com/danielfcollier/ts-gas-uservice-customer-creator)
-- [Integration with Florianopolis Municipal Service to generate invoices. Tools: .NET/C#, XmlDSig]([https://github.com/danielfcollier/dotnet-uservice-pmf-integration](https://github.com/danielfcollier/dotnet-tools-pmf-integration-xmldsig))
+- [Integration with Florianopolis Municipal Service to generate invoices. Tools: .NET/C#, XmlDSig](https://github.com/danielfcollier/dotnet-tools-pmf-integration-xmldsig)
 - [Simple CLI to customize the secretary WhatsApp message. Tools: Python, Argparse](https://github.com/danielfcollier/py-cli)
 - Legacy, to be removed: https://github.com/danielfcollier/ts-gas-clinic-project
 - Legacy, to be removed: https://github.com/danielfcollier/js-gas-app-registration-system
