@@ -49,6 +49,7 @@
 4. [Todolist API RESTful](https://github.com/danielfcollier/js-nodejs-fastify-todo-api-restful)
 - It was required just a basic CRUD API
 - Extras:
+    - Built with Fastify.js
     - Dockerfile setup
     - CI/CD with GitHub Actions
     - Unit and E2E tests within the specification
@@ -56,6 +57,7 @@
 5. [Virtual Card Generator with Next.js](https://github.com/danielfcollier/ts-nextjs-app-virtual-card-generator)
 - It was required to be able to download the card after providing the user information
 - Extras:
+    - Developed with TypeScript
     - Dockerfile setup
     - CI/CD with GitHub Actions
     - Basic UI testing setup
