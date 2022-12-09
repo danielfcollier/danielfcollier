@@ -95,7 +95,7 @@ Finished:
 
 ### Tools
 
-- [Generate a formatted CSV/JSON output with Brazzilian Bank Codes from the official Central Bank's source](https://github.com/danielfcollier/js-tools-brazillian-bank-codes)
+- [Generate a formatted CSV/JSON output with Brazilian Bank Codes from the official Central Bank's source](https://github.com/danielfcollier/js-tools-brazilian-bank-codes)
 
 ### Google Apps Script Projects
 
