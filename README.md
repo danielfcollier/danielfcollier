@@ -94,8 +94,10 @@ Finished:
 ### Google Apps Script Projects
 
 1. Libraries
-- An useful library to use Google Sheets as a database (you shouldn't, but...): https://github.com/danielfcollier/js-gas-library-db-sheets
-- https://github.com/danielfcollier/js-gas-library-asaas-api
+- An useful handler to use Google Sheets as a database (you shouldn't, but...): 
+    - https://github.com/danielfcollier/js-gas-library-db-sheets
+- Integration with Asaas Payment API:
+    - https://github.com/danielfcollier/js-gas-library-asaas-api
 
 2. Bots
 - Slack Birthday Remainder: https://github.com/danielfcollier/ts-gas-bot-slack-birthday-remainder
