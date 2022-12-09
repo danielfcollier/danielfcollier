@@ -19,7 +19,7 @@
 - blog: https://danielfcollier.github.io
 - papers from my past as [Power Electronics Engineer](https://www.researchgate.net/profile/Daniel-A-F-Collier)
 
-## Repositories
+## My Repositories
 
 ### Job Applications for Mid-Level Positions
 
@@ -65,27 +65,29 @@
 ### Just for Studing
 
 Working on:
-- https://github.com/danielfcollier/js-rabbitmq-lab
-- https://github.com/danielfcollier/environment-mern-stack-app
-- https://github.com/danielfcollier/dotnet-react-todo-app
+- RabbitMQ Tutorials in JS and PHP: https://github.com/danielfcollier/js-rabbitmq-lab
+- MERN Stack Setup: https://github.com/danielfcollier/environment-mern-stack-app
+- React Todolist APP with .NET in the backend: https://github.com/danielfcollier/dotnet-react-todo-app
 
-Finished:
-- https://github.com/danielfcollier/js-vanilla-app-registration-system
-- https://github.com/danielfcollier/js-vanilla-website-ecommerce-lp
+.NET studies:
 - https://github.com/danielfcollier/dotnet-sample-console-app
 - https://github.com/danielfcollier/dotnet-sample-async
 - https://github.com/danielfcollier/dotnet-sample-efcore
+
+Finished:
+- Landing page built with Vanilla JS, HTML,and CSS: https://github.com/danielfcollier/js-vanilla-website-ecommerce-lp
+- Form registration page with with Vanilla JS, HTML, and CSS: https://github.com/danielfcollier/js-vanilla-app-registration-system
 
 ---
 
 ### Side Projects
 
-- https://github.com/danielfcollier/ts-gas-clinic-project
-- https://github.com/danielfcollier/js-gas-app-registration-system
-- https://github.com/danielfcollier/ts-gas-library
-- https://github.com/danielfcollier/ts-gas-uservice-customer-creator
-- https://github.com/danielfcollier/dotnet-uservice-pmf-integration
-- https://github.com/danielfcollier/py-cli
+- A service routine to create customers Google Documents in a medical clinic context: https://github.com/danielfcollier/ts-gas-uservice-customer-creator
+- Integration with Florianopolis Municipal Service to generate invoices: https://github.com/danielfcollier/dotnet-uservice-pmf-integration
+- Simple CLI to customize the secretary WhatsApp messages: https://github.com/danielfcollier/py-cli
+- Legacy, to be removed: https://github.com/danielfcollier/ts-gas-clinic-project
+- Legacy, to be removed: https://github.com/danielfcollier/js-gas-app-registration-system
+- Legacy, to be removed: https://github.com/danielfcollier/ts-gas-library
 
 ---
 
@@ -103,7 +105,7 @@ Finished:
 
 ---
 
-### Open Source Projects I'm interested in
+### Open Source Projects
 
 - https://github.com/danielfcollier/json-schema-ref-parser
 - https://github.com/danielfcollier/webpack
