@@ -29,7 +29,7 @@
     - Solutions in 3 languages (Golang, Pyhton, and JavaScript)
     - Dockerfile setup for each language
     - CI/CD with GitHub Actions
-    - Integration test
+    - Integration tests
 
 2. PERN Stack Setup: https://github.com/danielfcollier/environment-pern-stack-app
 - PERN (Postgres, Express, React, Node) setup with Dockerfile and Docker Compose
@@ -44,14 +44,14 @@
         - https://github.com/danielfcollier/js-nodejs-express-api-rest
     - Dockerfile setup for each language
     - CI/CD with GitHub Actions
-    - E2E tests with the specification
+    - E2E tests within the specification
 
 4. Todolist API RESTful: https://github.com/danielfcollier/js-nodejs-fastify-todo-api-restful
 - It was required just a basic CRUD API
 - Extras:
     - Dockerfile setup
     - CI/CD with GitHub Actions
-    - Unit and E2E tests with the specification
+    - Unit and E2E tests within the specification
 
 5. Virtual Card Generator with Next.js: https://github.com/danielfcollier/ts-nextjs-app-virtual-card-generator
 - It was required to be able to download the card after providing the user information
