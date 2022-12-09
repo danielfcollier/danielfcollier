@@ -23,7 +23,7 @@
 
 ### Job Applications for Mid-Level Positions
 
-1. Domain Visistor Counter: https://github.com/danielfcollier/lab-domain-visitors-counter
+1. [Domain Visistor Counter](https://github.com/danielfcollier/lab-domain-visitors-counter)
 - Algorithmic code challenge
 - Extras:
     - Solutions in 3 languages (Golang, Pyhton, and JavaScript)
@@ -31,29 +31,29 @@
     - CI/CD with GitHub Actions
     - Integration tests
 
-2. PERN Stack Environment: https://github.com/danielfcollier/environment-pern-stack-app
+2. [PERN Stack Environment](https://github.com/danielfcollier/environment-pern-stack-app)
 - PERN (Postgres, Express, React, Node) setup with Dockerfile and Docker Compose
 
 3. API REST
 - It was required to "deploy" with `ngrok` and test within an external test suit
 - Extras:
     - Solution with many languages and stacks:
-        - https://github.com/danielfcollier/dotnet-api-rest
-        - https://github.com/danielfcollier/dotnet-minimal-api-rest
-        - https://github.com/danielfcollier/ts-nestjs-express-api-rest
-        - https://github.com/danielfcollier/js-nodejs-express-api-rest
+        - [.NET/C# MVC](https://github.com/danielfcollier/dotnet-api-rest)
+        - [.NET/C# Minimal](https://github.com/danielfcollier/dotnet-minimal-api-rest)
+        - [Nest.js with TypeScript and Express.js](https://github.com/danielfcollier/ts-nestjs-express-api-rest)
+        - [Node.js with JavaScript and Express.js](https://github.com/danielfcollier/js-nodejs-express-api-rest)
     - Dockerfile setup for each language
     - CI/CD with GitHub Actions
     - E2E tests within the specification
 
-4. Todolist API RESTful: https://github.com/danielfcollier/js-nodejs-fastify-todo-api-restful
+4. [Todolist API RESTful](https://github.com/danielfcollier/js-nodejs-fastify-todo-api-restful)
 - It was required just a basic CRUD API
 - Extras:
     - Dockerfile setup
     - CI/CD with GitHub Actions
     - Unit and E2E tests within the specification
 
-5. Virtual Card Generator with Next.js: https://github.com/danielfcollier/ts-nextjs-app-virtual-card-generator
+5. [Virtual Card Generator with Next.js](https://github.com/danielfcollier/ts-nextjs-app-virtual-card-generator)
 - It was required to be able to download the card after providing the user information
 - Extras:
     - Dockerfile setup
