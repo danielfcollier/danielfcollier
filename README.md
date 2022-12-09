@@ -60,6 +60,8 @@
     - CI/CD with GitHub Actions
     - Basic UI testing setup
 
+---
+
 ### Just for Studing
 
 Working on:
@@ -74,6 +76,8 @@ Finished:
 - https://github.com/danielfcollier/dotnet-sample-async
 - https://github.com/danielfcollier/dotnet-sample-efcore
 
+---
+
 ### Side Projects
 
 - https://github.com/danielfcollier/ts-gas-clinic-project
@@ -82,6 +86,8 @@ Finished:
 - https://github.com/danielfcollier/ts-gas-uservice-customer-creator
 - https://github.com/danielfcollier/dotnet-uservice-pmf-integration
 - https://github.com/danielfcollier/py-cli
+
+---
 
 ### Google Apps Script Projects
 
@@ -95,14 +101,20 @@ Finished:
 3. Just a Guide
 - https://github.com/danielfcollier/js-vanilla-concepts
 
+---
+
 ### Open Source Projects I'm interested in
 
 - https://github.com/danielfcollier/json-schema-ref-parser
 - https://github.com/danielfcollier/webpack
 
+---
+
  ### My Website
 
 https://github.com/danielfcollier/danielfcollier.github.io
+
+---
 
 ### Electrical Engineering
 
