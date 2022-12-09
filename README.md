@@ -31,7 +31,7 @@
     - CI/CD with GitHub Actions
     - Integration tests
 
-2. PERN Stack Setup: https://github.com/danielfcollier/environment-pern-stack-app
+2. PERN Stack Environment: https://github.com/danielfcollier/environment-pern-stack-app
 - PERN (Postgres, Express, React, Node) setup with Dockerfile and Docker Compose
 
 3. API REST
