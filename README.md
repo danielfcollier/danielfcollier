@@ -38,8 +38,8 @@
 - It was required to "deploy" with `ngrok` and test within an external test suit
 - Extras:
     - Solution with many languages and stacks:
-        - [.NET/C# MVC](https://github.com/danielfcollier/dotnet-api-rest)
-        - [.NET/C# Minimal](https://github.com/danielfcollier/dotnet-minimal-api-rest)
+        - [.NET/C# MVC API](https://github.com/danielfcollier/dotnet-api-rest)
+        - [.NET/C# Minimal API](https://github.com/danielfcollier/dotnet-minimal-api-rest)
         - [Nest.js with TypeScript and Express.js](https://github.com/danielfcollier/ts-nestjs-express-api-rest)
         - [Node.js with JavaScript and Express.js](https://github.com/danielfcollier/js-nodejs-express-api-rest)
     - Dockerfile setup for each language
@@ -67,9 +67,9 @@
 ### Just for Studing
 
 Working on:
-- RabbitMQ Tutorials in JS and PHP: https://github.com/danielfcollier/js-rabbitmq-lab
-- MERN Stack Setup: https://github.com/danielfcollier/environment-mern-stack-app
-- React Todolist APP with .NET in the backend: https://github.com/danielfcollier/dotnet-react-todo-app
+- [RabbitMQ Tutorials in JS and PHP](https://github.com/danielfcollier/js-rabbitmq-lab)
+- [MERN Stack Environment Setup](https://github.com/danielfcollier/environment-mern-stack-app)
+- [React Todolist APP with .NET/C# in the backend](https://github.com/danielfcollier/dotnet-react-todo-app)
 
 .NET studies:
 - https://github.com/danielfcollier/dotnet-sample-console-app
@@ -77,16 +77,16 @@ Working on:
 - https://github.com/danielfcollier/dotnet-sample-efcore
 
 Finished:
-- Landing page built with Vanilla JS, HTML,and CSS: https://github.com/danielfcollier/js-vanilla-website-ecommerce-lp
-- Form registration page with with Vanilla JS, HTML, and CSS: https://github.com/danielfcollier/js-vanilla-app-registration-system
+- [Landing page built with Vanilla JS, HTML,and CSS](https://github.com/danielfcollier/js-vanilla-website-ecommerce-lp)
+- [Form registration page with with Vanilla JS, HTML, and CSS](https://github.com/danielfcollier/js-vanilla-app-registration-system)
 
 ---
 
 ### Side Projects
 
-- A service routine to create customers Google Documents in a medical clinic context: https://github.com/danielfcollier/ts-gas-uservice-customer-creator
-- Integration with Florianopolis Municipal Service to generate invoices: https://github.com/danielfcollier/dotnet-uservice-pmf-integration
-- Simple CLI to customize the secretary WhatsApp messages: https://github.com/danielfcollier/py-cli
+- [uService routine to create customers Google Documents in a medical clinic context. Tools: Google Apps Script, TypeScript, Webpack](https://github.com/danielfcollier/ts-gas-uservice-customer-creator)
+- [Integration with Florianopolis Municipal Service to generate invoices. Tools: .NET/C#, XmlDSig](https://github.com/danielfcollier/dotnet-uservice-pmf-integration)
+- [Simple CLI to customize the secretary WhatsApp message. Tools: Python, Argparse](https://github.com/danielfcollier/py-cli)
 - Legacy, to be removed: https://github.com/danielfcollier/ts-gas-clinic-project
 - Legacy, to be removed: https://github.com/danielfcollier/js-gas-app-registration-system
 - Legacy, to be removed: https://github.com/danielfcollier/ts-gas-library
@@ -96,23 +96,23 @@ Finished:
 ### Google Apps Script Projects
 
 1. Libraries
-- An useful handler to use Google Sheets as a database (you shouldn't, but...): 
-    - https://github.com/danielfcollier/js-gas-library-db-sheets
-- Integration with Asaas Payment API:
-    - https://github.com/danielfcollier/js-gas-library-asaas-api
+- [An useful handler to use Google Sheets as a database (you shouldn't, but...)](https://github.com/danielfcollier/js-gas-library-db-sheets)
+- [Integration with Asaas Payment API](https://github.com/danielfcollier/js-gas-library-asaas-api)
 
 2. Bots
-- Slack Birthday Remainder: https://github.com/danielfcollier/ts-gas-bot-slack-birthday-remainder
+- [Slack Birthday Remainder. Tools: Google Apps Script, TypeScript](https://github.com/danielfcollier/ts-gas-bot-slack-birthday-remainder)
 
-3. Just a Guide
-- https://github.com/danielfcollier/js-vanilla-concepts
+3. [Just a summary with JavaScript and Google Apps Script references](https://github.com/danielfcollier/js-vanilla-concepts)
 
 ---
 
 ### Open Source Projects
 
-- https://github.com/danielfcollier/json-schema-ref-parser
-- https://github.com/danielfcollier/webpack
+Contributing to:
+- [OpenAPI Tools - JSON Schema Ref Parser](https://github.com/danielfcollier/json-schema-ref-parser)
+
+Just taking a depper look:
+- [Wepack](https://github.com/danielfcollier/webpack)
 
 ---
 
@@ -125,21 +125,21 @@ https://github.com/danielfcollier/danielfcollier.github.io
 ### Electrical Engineering
 
 1. Work as Software Assistant:
-- https://github.com/danielfcollier/java-applet-cluster-status
-- https://github.com/danielfcollier/python-applet-cluster-status
-- https://github.com/danielfcollier/matlab-numeric-optimization
+- [Cluster Status Java Applet](https://github.com/danielfcollier/java-applet-cluster-status)
+- [Cluster Status Python Applet](https://github.com/danielfcollier/python-applet-cluster-status)
+- [Matlab Code Optimization with C/C++](https://github.com/danielfcollier/c-matwrap-code-optimization)
 
 2. R&D in Power Systems
-- https://github.com/danielfcollier/matlab-parametric-optimal-power-flow
-- https://github.com/danielfcollier/c-matwrap-code-optimization
-- https://github.com/danielfcollier/scilab-image-processing-scripts
+- [Parametic Optimal Power Flow](https://github.com/danielfcollier/matlab-parametric-optimal-power-flow)
+- [Numeric Optimization Studies](https://github.com/danielfcollier/matlab-numeric-optimization)
 
-3. Master Thesis
-- https://github.com/danielfcollier/latex-master-thesis
+3. [Master Thesis](https://github.com/danielfcollier/latex-master-thesis)
 
-4. PhD Qualification
-- https://github.com/danielfcollier/latex-phd-qualification
+4. [PhD Qualification](https://github.com/danielfcollier/latex-phd-qualification)
 
 5. Paper Templates 
-- https://github.com/danielfcollier/latex-paper-template-digest
-- https://github.com/danielfcollier/latex-paper-template
+- [IEEE Digest Template](https://github.com/danielfcollier/latex-paper-template-digest)
+- [IEEE Official Template](https://github.com/danielfcollier/latex-paper-template)
+
+6. Other
+- [Image Processing Studies](https://github.com/danielfcollier/scilab-image-processing-scripts)
