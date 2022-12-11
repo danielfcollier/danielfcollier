@@ -39,10 +39,11 @@
 - Extras:
     - Solution with many languages and stacks:
         - [FastAPI with Python 3.10](https://github.com/danielfcollier/py-fastapi-api-rest) 
-        - [.NET/C# MVC API](https://github.com/danielfcollier/dotnet-api-rest)
-        - [.NET/C# Minimal API](https://github.com/danielfcollier/dotnet-minimal-api-rest)
         - [Nest.js with TypeScript and Express.js](https://github.com/danielfcollier/ts-nestjs-express-api-rest)
+        - [.NET/C# MVC API](https://github.com/danielfcollier/dotnet-api-rest)
         - [Node.js with JavaScript and Express.js](https://github.com/danielfcollier/js-nodejs-express-api-rest)
+        - [.NET/C# Minimal API](https://github.com/danielfcollier/dotnet-minimal-api-rest)
+        
     - Dockerfile setup for each language
     - CI/CD with GitHub Actions
     - E2E tests within the specification
