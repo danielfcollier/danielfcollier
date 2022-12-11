@@ -38,6 +38,7 @@
 - It was required to "deploy" with `ngrok` and test within an external test suit
 - Extras:
     - Solution with many languages and stacks:
+        - [FastAPI with Python 3.10](https://github.com/danielfcollier/py-fastapi-api-rest) 
         - [.NET/C# MVC API](https://github.com/danielfcollier/dotnet-api-rest)
         - [.NET/C# Minimal API](https://github.com/danielfcollier/dotnet-minimal-api-rest)
         - [Nest.js with TypeScript and Express.js](https://github.com/danielfcollier/ts-nestjs-express-api-rest)
