@@ -15,7 +15,6 @@
 
 📞 How to reach me: 
 - [my linkedin](https://www.linkedin.com/in/danielfcollier)
-- email: danielfcollier@gmail.com 
 - blog: https://danielfcollier.github.io
 - papers from my past as [Power Electronics Engineer](https://www.researchgate.net/profile/Daniel-A-F-Collier)
 
