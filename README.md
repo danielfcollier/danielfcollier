@@ -118,6 +118,7 @@ Just taking a depper look:
 ### Tools
 
 - [Generate a formatted CSV/JSON output with Brazilian Bank Codes from the official Central Bank's source](https://github.com/danielfcollier/js-tools-brazilian-bank-codes)
+- [OpenAPI Spec Generator for .NET/C# Codebase](https://github.com/danielfcollier/js-bash-awk-openapi-spec-generator-for-csharp)
 
 ---
 
