@@ -18,7 +18,9 @@
 - blog: https://danielfcollier.github.io
 - papers from my past as [Power Electronics Engineer](https://www.researchgate.net/profile/Daniel-A-F-Collier)
 
-## My Repositories
+### My Repositories
+
+---
 
 ### Job Applications for Mid-Level Positions
 
