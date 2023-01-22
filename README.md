@@ -101,6 +101,7 @@ Finished:
 1. Libraries
 - [An useful handler to use Google Sheets as a database (you shouldn't, but...)](https://github.com/danielfcollier/js-gas-library-db-sheets)
 - [Integration with Asaas Payment API](https://github.com/danielfcollier/js-gas-library-asaas-api)
+- [Request library to handle only JSON data](https://github.com/danielfcollier/js-gas-library-fetch-json)
 
 2. Bots
 - [Slack Birthday Remainder. Tools: Google Apps Script, TypeScript](https://github.com/danielfcollier/ts-gas-bot-slack-birthday-remainder)
