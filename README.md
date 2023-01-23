@@ -99,12 +99,12 @@ Finished:
 ### Google Apps Script Projects
 
 1. Libraries
-- [General Utitilities to handle masks and formats of BR standards](https://github.com/danielfcollier/js-gas-library-utils)
-- [An useful handler to use Google Sheets as a database (you shouldn't, but...)](https://github.com/danielfcollier/js-gas-library-db-sheets)
-- [Integration with Asaas Payment API](https://github.com/danielfcollier/js-gas-library-asaas-integration)
-- [Email service utility to make easy to use HTML templates](https://github.com/danielfcollier/js-gas-library-email-service)
-- [Fetch library to handle only JSON data](https://github.com/danielfcollier/js-gas-library-fetch-json)
-- [Custom test framework to use with GAS](https://github.com/danielfcollier/js-gas-library-test-framework)
+- [GASUtils: general utitilities to handle masks and formats of BR standards](https://github.com/danielfcollier/js-gas-library-utils)
+- [DBSheets: an useful handler to use Google Sheets as a database (you shouldn't, but...)](https://github.com/danielfcollier/js-gas-library-db-sheets)
+- [AsaasIntegration: use Asaas Payment API](https://github.com/danielfcollier/js-gas-library-asaas-integration)
+- [EmailService: utility to make easy to use HTML templates](https://github.com/danielfcollier/js-gas-library-email-service)
+- [FetchJson: library to handle request and responses with JSON data](https://github.com/danielfcollier/js-gas-library-fetch-json)
+- [TestFramework: custom framework to use with GAS](https://github.com/danielfcollier/js-gas-library-test-framework)
 
 2. Bots
 - [Slack Birthday Remainder. Tools: Google Apps Script, TypeScript](https://github.com/danielfcollier/ts-gas-bot-slack-birthday-remainder)
