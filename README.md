@@ -103,7 +103,8 @@ Finished:
 - [DBSheets: an useful handler to use Google Sheets as a database (you shouldn't, but...)](https://github.com/danielfcollier/js-gas-library-db-sheets)
 - [AsaasIntegration: use Asaas Payment API](https://github.com/danielfcollier/js-gas-library-asaas-integration)
 - [EmailService: utility to make easy to use HTML templates](https://github.com/danielfcollier/js-gas-library-email-service)
-- [FetchJson: library to handle request and responses with JSON data](https://github.com/danielfcollier/js-gas-library-fetch-json)
+- [FetchJson: handle request and responses with JSON data](https://github.com/danielfcollier/js-gas-library-fetch-json)
+- [Webhooks: wrapper to make it easy to create webhooks](https://github.com/danielfcollier/js-gas-library-webhooks)
 - [TestFramework: custom framework to use with GAS](https://github.com/danielfcollier/js-gas-library-test-framework)
 
 2. Bots
