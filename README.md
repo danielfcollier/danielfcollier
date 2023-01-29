@@ -105,7 +105,7 @@ Finished:
 - [FetchJson: handle request and responses with JSON data](https://github.com/danielfcollier/js-gas-library-fetch-json)
 - [Webhooks: wrapper to make it easy to create webhooks](https://github.com/danielfcollier/js-gas-library-webhooks)
 
-- [GASUtils: general utitilities to handle masks and formats of BR standards](https://github.com/danielfcollier/js-gas-library-utils)
+- [GasUtils: general utitilities to handle masks and formats of BR standards](https://github.com/danielfcollier/js-gas-library-utils)
 - [TestFramework: custom framework to use with GAS](https://github.com/danielfcollier/js-gas-library-test-framework)
 
 - [AsaasIntegration: use Asaas Payment API](https://github.com/danielfcollier/js-gas-library-asaas-integration)
