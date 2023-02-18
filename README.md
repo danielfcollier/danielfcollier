@@ -9,9 +9,9 @@
 
 ⬆️ Working on improving TDD, DevOps, Cloud, Architecture, and Microservices skills.
 
-🧰 Main tooling: JS/TS (Node, Express, Fastify, Nest, React, Redux, Next, jQuery), C# (.NET Core), Python and Go (Scripting), Linux (Bash, Awk, Make, Cron jobs, CLI tools), Git, Docker, CI-CD (GitHub Actions, GitLab Runner), Tests (Jest, QUnit, Mocha, XUnit, Moq), SQL (Postgres, MySQL), Documentation (OpenAPI, JsonSchema, Docusaurus), PHP (WordPress, Magento), HTML, CSS, SASS, Jira.
+🧰 Main tooling: Python (FastAPI, Pytest, Pydantic, SQLAlchemy, Alembic), JS/TS (Node, Express, Fastify, Nest, React, Redux, Next, jQuery), C# (.NET Core), Python and Go (Scripting), Linux (Bash, Awk, Make, Cron jobs, CLI tools), Git, Docker, CI-CD (GitHub Actions, GitLab Runner), Tests (Jest, QUnit, Mocha, XUnit, Moq), SQL (Postgres), Documentation (OpenAPI, JsonSchema, Docusaurus), PHP (WordPress, Magento), HTML, CSS, SASS, Jira.
 
-📂 Back-office automation: document generation (receipts, email, pdf, docs, xlsx, csv); file/drive management; XML digital signature; Google Sheets and Workspace automation (Apps Script).
+📂 Back-office automation: document generation (invoices, email, pdf, docs, xlsx, csv);  file/drive management; XML digital signature; Google Sheets and Workspace automation (Apps Script).
 
 📞 How to reach me: 
 - [my linkedin](https://www.linkedin.com/in/danielfcollier)
