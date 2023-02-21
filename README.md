@@ -29,7 +29,7 @@
 1. [Domain Visistor Counter](https://github.com/danielfcollier/lab-domain-visitors-counter)
 - Algorithmic code challenge
 - Extras:
-    - Solutions in 3 languages ([Golang](https://github.com/danielfcollier/lab-domain-visitors-counter/tree/main/golang-solution), [Pyhton](https://github.com/danielfcollier/lab-domain-visitors-counter/tree/main/python-solution), and [JavaScript](https://github.com/danielfcollier/lab-domain-visitors-counter/tree/main/javascript-solution)
+    - Solutions in 3 languages ([Golang](https://github.com/danielfcollier/lab-domain-visitors-counter/tree/main/golang-solution), [Pyhton](https://github.com/danielfcollier/lab-domain-visitors-counter/tree/main/python-solution), and [JavaScript](https://github.com/danielfcollier/lab-domain-visitors-counter/tree/main/javascript-solution))
     - Dockerfile setup for each language
     - CI/CD with GitHub Actions
     - Integration tests
