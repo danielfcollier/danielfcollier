@@ -91,8 +91,13 @@ Finished:
 - [Simple CLI to customize the secretary WhatsApp message. Tools: Python, Argparse](https://github.com/danielfcollier/py-cli-drageisa)
 - Legacy, to be removed: https://github.com/danielfcollier/ts-gas-clinic-project
 - Legacy, to be removed: https://github.com/danielfcollier/js-gas-app-registration-system
-- Legacy, to be removed: https://github.com/danielfcollier/ts-gas-library
 
+Organizing:
+- Legacy, to be removed: https://github.com/danielfcollier/ts-gas-library
+- to be removed:
+    - https://github.com/danielfcollier/ts-gas-clinic-project
+    - https://github.com/danielfcollier/js-gas-crm-clinic-project
+      
 ---
 
 ### Google Apps Script Projects
