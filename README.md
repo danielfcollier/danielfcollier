@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">✨Hi there, it's Daniel!✨</h1>
 
 🎓 B.S. and M.S. in Electrical Engineering by Federal University of Santa Catarina
 
@@ -21,6 +21,8 @@
 ---
 
 ### My Repositories
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfcollier&hide=javascript,typescript,html,css,scss,java,matlab,tex,scilab&langs_count=10&layout=compact)
 
 ---
 
