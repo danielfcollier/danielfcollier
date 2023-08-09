@@ -22,7 +22,7 @@
 
 ### My Repositories
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfcollier&hide=javascript,typescript,html,css,scss,java,matlab,tex,scilab&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfcollier&hide=html,css,scss,java,matlab,tex,scilab&langs_count=10&layout=compact)
 
 ---
 
