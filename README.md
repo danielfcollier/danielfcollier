@@ -4,7 +4,7 @@
 
 I am a **Senior Systems Engineer** specializing in the intersection of **Energy Systems**, **Reliability Engineering**, and **Cloud Native Architecture**.
 
-My background is unique: I hold an **M.Sc. in Electrical Engineering** and have spent the last decade building **self-healing cloud systems**. I am now focused on applying these distributed system patterns to physical challenges in **EV Charging**, **Smart Grids**, and **Virtual Power Plants**.
+My background is unique: I hold an **M.Sc. in Electrical Engineering** and have spent the last years building **self-healing cloud systems**. I leverage the **"Physics of Software"** - applying Control Theory concepts (feedback loops, state machines, convergence) to manage hyperscale infrastructure. I am now focused on applying these distributed system patterns to physical challenges in **EV Charging**, **Smart Grids**, and **Virtual Power Plants**.
 
 ## ⚡ The Intersection: Grid + Cloud
 
