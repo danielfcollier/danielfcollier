@@ -45,7 +45,7 @@ I approach software engineering with a Systems Modeling mindset.
 
 - **Innovation Award (1st Place)**: Awarded by **WEG Electric Corp.** for "Technological Innovation" in Motor Control.
 - **Paper**: Modeling & Control of WECS: My most cited work on the non-linear dynamics of Wind Energy Conversion Systems.
-- **Paper**: AC Currents Synchronization Technique Based on the Normalized Phase-Locked Loop for Modulation of a Three-Phase PWM Delta-Switch Rectifier: Cited by a US Patent (2021), demonstrating long-term industrial relevance for grid synchronization.
+- **Paper**: "AC Currents Synchronization Technique Based on the Normalized Phase-Locked Loop for Modulation of a Three-Phase PWM Delta-Switch Rectifier" cited by a US Patent (2021), demonstrating long-term industrial relevance for grid synchronization.
 - **Patent Holder**: Co-inventor of " Current Self-Control Applied to Three-Phase Electric Generators Connected to Three-Phase PWM Rectifiers".
 
 [LinkedIn](https://www.linkedin.com/in/danielfcollier/)
