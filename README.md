@@ -48,4 +48,6 @@ I approach software engineering with a Systems Modeling mindset.
 - **Paper**: "AC Currents Synchronization Technique Based on the Normalized Phase-Locked Loop for Modulation of a Three-Phase PWM Delta-Switch Rectifier" cited by a US Patent (2021), demonstrating long-term industrial relevance for grid synchronization.
 - **Patent Holder**: Co-inventor of " Current Self-Control Applied to Three-Phase Electric Generators Connected to Three-Phase PWM Rectifiers".
 
-[LinkedIn](https://www.linkedin.com/in/danielfcollier/)
+## Social
+- [LinkedIn](https://www.linkedin.com/in/danielfcollier/)
+- [ResearchGate](https://www.researchgate.net/profile/Daniel-A-F-Collier/research)
