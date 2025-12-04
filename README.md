@@ -32,7 +32,12 @@ I approach software engineering with a Systems Modeling mindset.
 - **Stack**: Raspberry Pi 4, Python, TensorFlow Lite, MQTT.
 - **Status**: View Roadmap
 
-**2. Smart Grid Operations with Grid2Op** (Planned)
+**2. Cloud Control Loop: Infrastructure as State Machines** (Demo)
+- **Goal**: Demonstrate self-healing cloud logic using deterministic State Machines (FSM).
+- **Stack**: Python, Control Theory Patterns.
+- **Concept**: Applies PID-like convergence to infrastructure resources, mirroring the logic used in high-reliability control planes.
+
+**3. Smart Grid Operations with Grid2Op** (Planned)
 - **Goal**: Apply Reinforcement Learning concepts to power grid topology management using the grid2op framework.
 - **Focus**: Automating grid resilience against cascading failures.
 
