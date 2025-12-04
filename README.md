@@ -44,8 +44,9 @@ I approach software engineering with a Systems Modeling mindset.
 ## 📜 Selected Research & Honors
 
 - **Innovation Award (1st Place)**: Awarded by **WEG Electric Corp.** for "Technological Innovation" in Motor Control.
-- **Paper**: Modeling & Control of WECS: My most cited work on the non-linear dynamics of Wind Energy Conversion Systems.
-- **Paper**: "AC Currents Synchronization Technique Based on the Normalized Phase-Locked Loop for Modulation of a Three-Phase PWM Delta-Switch Rectifier" cited by a US Patent (2021), demonstrating long-term industrial relevance for grid synchronization.
+- **Paper**: [Propulsion System for Electric Boat](https://ieeexplore.ieee.org/document/6387441) my most cited work (as co-author), detailing the drive system and control for a zero-emission passenger vessel (IEEE).
+- **Paper**: [Modeling & Control of WECS](https://ieeexplore.ieee.org/document/6085301) my second most cited work (as author), on the non-linear dynamics of Wind Energy Conversion Systems (IEEE).
+- **Paper**: [Normalized PLL](https://ieeexplore.ieee.org/document/6877131) cited by a US Patent (2021), demonstrating long-term industrial relevance for grid synchronization.
 - **Patent Holder**: Co-inventor of " Current Self-Control Applied to Three-Phase Electric Generators Connected to Three-Phase PWM Rectifiers".
 
 ## Social
