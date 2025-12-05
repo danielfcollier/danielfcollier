@@ -17,7 +17,7 @@ I approach software engineering with a Systems Modeling mindset.
 
 **Cloud & Automation**
 - **Languages**: **Python** (Expert - Automation/Backend), Go (Tooling/Terraform), Bash.
-- **Platform**: OpenStack, Kubernetes, Docker, Terraform (Provider Contributor).
+- **Platform**: Linux, OpenStack, Kubernetes, Docker, Terraform (Provider Contributor).
 - **Architecture**: Event-Driven Architecture (EDA), MQTT, Microservices.
 - **Observability**: Prometheus, Grafana, OpenTelemetry.
 
