@@ -1,15 +1,12 @@
 # Senior Systems Engineer | Cloud & Energy Specialist (M.Sc.)
 
-> "Applying Control Theory to the Cloud, and Cloud Architecture to the Grid."
+> "Bridging Power Processing Systems, Control & Cloud Architecture to the Grid."
 
 I am a **Senior Systems Engineer** specializing in the intersection of **Energy Systems**, **Reliability Engineering**, and **Cloud Native Architecture**.
 
 My background is unique: I hold an **M.Sc. in Electrical Engineering** and have spent the last years building **self-healing cloud systems**. I leverage the **"Physics of Software"** - applying Control Theory concepts (feedback loops, state machines, convergence) to manage hyperscale infrastructure. I am now focused on applying these distributed system patterns to physical challenges in **EV Charging**, **Smart Grids**, and **Virtual Power Plants**.
 
 ## ⚡ The Intersection: Grid + Cloud
-
-I approach software engineering with a Systems Modeling mindset.
-
 - **Cloud Orchestration**: I build self-healing systems (Python) that behave like closed-loop control systems - monitoring state and converging to desired setpoints.
 - **Reliability**: I apply "Software-in-the-Loop" (SIL) and formal verification methods to infrastructure automation.
 
@@ -23,7 +20,7 @@ I approach software engineering with a Systems Modeling mindset.
 
 **Energy & Modeling**
 - **Simulation**: MATLAB/Simulink, Python (SciPy/NumPy), **Grid2Op**.
-- **Domain**: Wind Energy (WECS), Power Electronics (PMSG), Microgrid Control, Optimal Power Flow.
+- **Domain**: Power Processing Systems (Converters & Drives), Microgrids, Optimal Power Flow.
 
 ## 🚀 Projects & PoCs
 
