@@ -1,42 +1,46 @@
-# Senior Systems Engineer | Cloud & Energy Specialist (M.Sc.)
+# Senior Platform Engineer (M.Sc.)
 
-> "Bridging Power Processing Systems, Control & Cloud Architecture to the Grid."
+> "Building the control planes that power critical infrastructure."
 
-I am a **Senior Systems Engineer** specializing in the intersection of **Energy Systems**, **Reliability Engineering**, and **Cloud Native Architecture**.
+I am a **Senior Platform Engineer** specializing in **Reliability (SRE)**, **Internal Developer Platforms (IDP)**, and **Energy Systems**.
 
-My background is unique: I hold an **M.Sc. in Electrical Engineering** and have spent the last years building **self-healing cloud systems**. I leverage the **"Physics of Software"** - applying Control Theory concepts (feedback loops, state machines, convergence) to manage hyperscale infrastructure. I am now focused on applying these distributed system patterns to physical challenges in **EV Charging**, **Smart Grids**, and **Virtual Power Plants**.
+My background combines **M.Sc. in Electrical Engineering** (Power Systems & Control Theory) with 15+ years of software engineering. I apply rigorous **Control Theory** principles—feedback loops, state convergence, and stability analysis—to build self-healing cloud platforms for high-stakes environments.
 
-## ⚡ The Intersection: Grid + Cloud
-- **Cloud Orchestration**: I build self-healing systems (Python) that behave like closed-loop control systems - monitoring state and converging to desired setpoints.
-- **Reliability**: I apply "Software-in-the-Loop" (SIL) and formal verification methods to infrastructure automation.
+## ⚡ The Intersection: Platform + Physics
+I view infrastructure as a dynamic system that must be observed and controlled.
+- **Platform Engineering**: Architecting Internal Developer Platforms (IDP) that standardize and automate the lifecycle of stateful workloads.
+- **Reliability Engineering**: Designing **Kubernetes Operators** and **Control Planes** that treat infrastructure as code that converges to a desired state.
 
 ## 🛠️ Technical Stack
 
-**Cloud & Automation**
-- **Languages**: **Python** (Expert - Automation/Backend), Go (Tooling/Terraform), Bash.
-- **Platform**: Linux, OpenStack, Kubernetes, Docker, Terraform (Provider Contributor).
+**Platform & Automation**
+- **Languages**: Python (Expert - Automation/FastAPI), Go (System Tools), Bash.
+- **Orchestration**: Kubernetes (Operators/CRDs), OpenStack, Terraform (Provider Dev), Crossplane.
+- **Observability**: Prometheus, Grafana, OpenTelemetry, SLI/SLO Design.
 - **Architecture**: Event-Driven Architecture (EDA), MQTT, Microservices.
-- **Observability**: Prometheus, Grafana, OpenTelemetry.
+- **GitOps**: ArgoCD, Flux.
 
-**Energy & Modeling**
-- **Simulation**: MATLAB/Simulink, Python (SciPy/NumPy), **Grid2Op**.
-- **Domain**: Power Processing Systems (Converters & Drives), Microgrids, Optimal Power Flow.
+**Energy & Critical Systems**
+- **Simulation**: MATLAB/Simulink, Python (SciPy/NumPy), Grid2Op.
+- **Domain**: Power Processing Systems, Smart Grid, EV Charging, Virtual Power Plants (VPP).
 
 ## 🚀 Projects & PoCs
 
-**1. Edge AI Acoustic Fault Detector** (Active)
-- **Goal**: Detect motor anomalies using high-frequency audio analysis at the edge.
-- **Stack**: Raspberry Pi 4, Python, TensorFlow Lite, MQTT.
-- **Status**: View Roadmap
+**1. Virtual Battery Operator**
+- **Goal**: A Kubernetes Operator written in Go that manages VirtualPowerPlant Custom Resources.
+- **Concept**: Demonstrates Cloud-Native patterns applied to energy assets, treating a battery fleet as a reconcilable K8s resource.
+- **Status**: Planned
 
-**2. Cloud Control Loop: Infrastructure as State Machines** (Demo)
+**2. Cloud Control Loop**
 - **Goal**: Demonstrate self-healing cloud logic using deterministic State Machines (FSM).
-- **Stack**: Python, Control Theory Patterns.
-- **Concept**: Applies PID-like convergence to infrastructure resources, mirroring the logic used in high-reliability control planes.
-
-**3. Smart Grid Operations with Grid2Op** (Planned)
-- **Goal**: Apply Reinforcement Learning concepts to power grid topology management using the grid2op framework.
-- **Focus**: Automating grid resilience against cascading failures.
+- **Stack**: Go, Control Theory Patterns.
+- **Concept**: Applies PID-like convergence logic to infrastructure resources.
+- **Status**: Planned
+- 
+**3. Edge Node Telemetry**
+- **Goal**: IoT Platform prototype collecting high-frequency audio data from Raspberry Pi nodes via MQTT.
+- **Stack**: Python, MQTT, TensorFlow Lite.
+- **Status**: WIP
 
 ## 📜 Selected Research & Honors
 
