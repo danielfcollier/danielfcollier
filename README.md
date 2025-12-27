@@ -39,10 +39,11 @@ I build "Golden Paths" and automation tools that allow engineering teams to ship
 
 ## 🧪 Open Source & PoCs
 
-**1. Python Pipeline Framework (PyPI)**
-- **Concept**: A thread-safe "Producer-Consumer" library for building concurrent background workers.
+**1. Python Audio Framework (UMIK-1)**
+- **Concept**: A multi-threaded **"Producer-Consumer"** framework designed for high-stability audio applications (specifically for the MiniDSP UMIK-1).
+- **Architecture**: Decouples Hardware I/O ("The Ear") from Signal Processing ("The Brain") using thread-safe queues. This architecture prevents blocking operations from causing audio glitches or buffer overruns.
+- **Features**: Includes ready-to-run modules for **Real-Time Metering** (RMS/LUFS), **Calibration** (loading UMIK-1 sensitivity files), and **Lossless Recording**.
 - **Links**: [📦 PyPI Page](https://pypi.org/project/umik-base-app) | [💻 Source Code](https://github.com/danielfcollier/py-umik-base-app)
-- **Goal**: A **LowOps** tool to simplify async processing without heavy frameworks.
 
 **2. LowOps Edge AI Telemetry**
 - **Concept**: A "Zero-Touch" acoustic monitoring station for edge environments.
