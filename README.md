@@ -1,55 +1,66 @@
-# Senior Platform Engineer (M.Sc.)
+# Staff Platform Engineer (M.Sc.)
 
-> "Building the control planes that power critical infrastructure."
+> "Applying Engineering Rigor to Cloud Infrastructure."
 
-I am a **Senior Platform Engineer** specializing in **Reliability (SRE)**, **Internal Developer Platforms (IDP)**, and **Energy Systems**.
+I am a **Staff Platform Engineer** specializing in **Reliability**, **Internal Developer Platforms (IDP)**, and **Control Planes**.
 
-My background combines **M.Sc. in Electrical Engineering** (Power Systems & Control Theory) with 15+ years of software engineering. I apply rigorous **Control Theory** principles—feedback loops, state convergence, and stability analysis—to build self-healing cloud platforms for high-stakes environments.
+With a background in **Control Theory (M.Sc.)** and 12+ years in software, I treat infrastructure as a deterministic system. I apply feedback loops, state convergence, and stability analysis to build self-healing cloud platforms.
 
-## ⚡ The Intersection: Platform + Physics
-I view infrastructure as a dynamic system that must be observed and controlled.
-- **Platform Engineering**: Architecting Internal Developer Platforms (IDP) that standardize and automate the lifecycle of stateful workloads.
-- **Reliability Engineering**: Designing **Kubernetes Operators** and **Control Planes** that treat infrastructure as code that converges to a desired state.
+### 🧠 The Philosophy: LowOps
+I build "Golden Paths" and automation tools that allow engineering teams to ship features without getting bogged down in operations.
+- **Platform Engineering**: Architecting control planes that standardize the lifecycle of stateful workloads.
+- **Reliability Engineering**: Designing systems that detect and resolve their own faults (Self-Healing).
 
 ## 🛠️ Technical Stack
 
 **Platform & Automation**
-- **Languages**: Python (Expert - Automation/FastAPI), Go (System Tools), Bash.
-- **Orchestration**: Kubernetes (Operators/CRDs), OpenStack, Terraform (Provider Dev), Crossplane.
-- **Observability**: Prometheus, Grafana, OpenTelemetry, SLI/SLO Design.
-- **Architecture**: Event-Driven Architecture (EDA), MQTT, Microservices.
-- **GitOps**: ArgoCD, Flux.
+- **Languages**: Python (Expert - FastAPI, Multithreading, State Machines), Go (Tooling/Providers).
+- **Architecture**: Microservices, Event-Driven Architecture (EDA), RESTful APIs.
+- **Orchestration**: Kubernetes (Workload Management), Terraform (Provider Dev), Ansible.
+- **Observability**: OpenTelemetry, Prometheus/Grafana, SLI/SLO Design, RCA.
 
-**Energy & Critical Systems**
-- **Simulation**: MATLAB/Simulink, Python (SciPy/NumPy), Grid2Op.
-- **Domain**: Power Processing Systems, Smart Grid, EV Charging, Virtual Power Plants (VPP).
+**Infrastructure & Systems**
+- **Cloud**: Refactored OpenStack SDK logic into service API integrations.
+- **Systems**: Linux Automation (`systemd`, Bash), IoT/Edge (Raspberry Pi).
 
-## 🚀 Projects & PoCs
+## 🚀 Impact & Highlights
 
-**1. Virtual Battery Operator**
-- **Goal**: A Kubernetes Operator written in Go that manages VirtualPowerPlant Custom Resources.
-- **Concept**: Demonstrates Cloud-Native patterns applied to energy assets, treating a battery fleet as a reconcilable K8s resource.
-- **Status**: Planned
+**Magalu Cloud (Staff-Track)**
+- **DBaaS Control Plane**: Leading the implementation of the Python/FastAPI provisioning engine for the public cloud's database service. Refactored legacy OpenStack SDK logic into service API integrations for higher stability.
+- **Terraform Provider**: Fixed and hardened DBaaS resources in the official Go provider, introducing **regression testing** patterns to eliminate recurring bugs.
+- **Self-Healing Strategy**: Architecting a reconciliation layer based on Control Loop theory to automatically resolve stuck provisioning states.
+- **Technical Strategy**: Authored **ADRs** and technical documentation to standardize architecture patterns across the DBaaS tribe.
 
-**2. Cloud Control Loop**
-- **Goal**: Demonstrate self-healing cloud logic using deterministic State Machines (FSM).
-- **Stack**: Go, Control Theory Patterns.
-- **Concept**: Applies PID-like convergence logic to infrastructure resources.
-- **Status**: Planned
-- 
-**3. Edge Node Telemetry**
-- **Goal**: IoT Platform prototype collecting high-frequency audio data from Raspberry Pi nodes via MQTT.
-- **Stack**: Python, MQTT, TensorFlow Lite.
-- **Status**: WIP
+**Tuna Payments**
+- **Developer Experience (DX)**: Engineered a "Docs-as-Code" pipeline to auto-generate OpenAPI specs, streamlining partner integrations.
+- **Integration Reliability**: Optimized the data bridge between merchant frontends and backend payment cores to ensure analytical accuracy.
+- **External Integrations**: Developed .NET Core services to handle XML invoice signing and integration with municipal government APIs, ensuring compliance and reliability.
 
-## 📜 Selected Research & Honors
+## 🧪 Open Source & PoCs
 
-- **Innovation Award (1st Place)**: Awarded by **WEG Electric Corp.** for "Technological Innovation" in Motor Control.
-- **Paper**: [Propulsion System for Electric Boat](https://ieeexplore.ieee.org/document/6387441) my most cited work (as co-author), detailing the drive system and control for a zero-emission passenger vessel (IEEE).
-- **Paper**: [Modeling & Control of WECS](https://ieeexplore.ieee.org/document/6085301) my second most cited work (as author), on the non-linear dynamics of Wind Energy Conversion Systems (IEEE).
-- **Paper**: [Normalized PLL](https://ieeexplore.ieee.org/document/6877131) cited by a US Patent (2021), demonstrating long-term industrial relevance for grid synchronization.
-- **Patent Holder**: Co-inventor of " Current Self-Control Applied to Three-Phase Electric Generators Connected to Three-Phase PWM Rectifiers".
+**1. Python Pipeline Framework (PyPI)**
+- **Concept**: A thread-safe "Producer-Consumer" library for building concurrent background workers.
+- **Links**: [📦 PyPI Page](https://pypi.org/project/umik-base-app) | [💻 Source Code](https://github.com/danielfcollier/py-umik-base-app)
+- **Goal**: A **LowOps** tool to simplify async processing without heavy frameworks.
 
-## Social
-- [LinkedIn](https://www.linkedin.com/in/danielfcollier/)
-- [ResearchGate](https://www.researchgate.net/profile/Daniel-A-F-Collier/research)
+**2. LowOps Edge AI Telemetry**
+- **Concept**: A "Zero-Touch" acoustic monitoring station for edge environments.
+- **Links**: [💻 Source Code](https://github.com/danielfcollier/py-edge-ai-acoustic-monitoring-app)
+- **Stack**: Python, `systemd` watchdogs, Google YamNet.
+- **Status**: Production (Personal Use).
+
+<!--
+**3. DriftControl (Self-Healing Loop)**
+- **Concept**: A proof-of-concept **Control Plane** component.
+- **Logic**: Implements a `Look -> Compare -> Converge` loop (Feedback Control) to enforce configuration state.
+- **Goal**: Eliminates "Configuration Drift" by automatically reverting manual changes without human intervention.
+- **Status**: POC (Python).
+-->
+
+## 📜 Research & Honors
+
+- **M.Sc. Electrical Engineering**: Focus on Modeling & Control of Wind Energy Conversion Systems (UFSC).
+- **Innovation Award (1st Place)**: Awarded by **WEG Electric Corp.** for innovation in Motor Control.
+- **Patent Holder**: Co-inventor of "Current Self-Control Applied to Three-Phase Electric Generators".
+
+[LinkedIn](https://www.linkedin.com/in/danielfcollier/) | [ResearchGate](https://www.researchgate.net/profile/Daniel-A-F-Collier/research)
