@@ -28,6 +28,7 @@ I build "Golden Paths" and automation tools that allow engineering teams to ship
 **Magalu Cloud (Staff-Track)**
 - **DBaaS Control Plane**: Leading the implementation of the Python/FastAPI provisioning engine for the public cloud's database service. Refactored legacy OpenStack SDK logic into service API integrations for higher stability.
 - **Terraform Provider**: Fixed and hardened DBaaS resources in the official Go provider, introducing **regression testing** patterns to eliminate recurring bugs.
+- **Operational Excellence**: Leading **Root Cause Analysis (RCA)** initiatives for complex outages and providing Tier-3 technical support, translating critical customer incidents into permanent architectural improvements.
 - **Self-Healing Strategy**: Architecting a reconciliation layer based on Control Loop theory to automatically resolve stuck provisioning states.
 - **Technical Strategy**: Authored **ADRs** and technical documentation to standardize architecture patterns across the DBaaS tribe.
 
