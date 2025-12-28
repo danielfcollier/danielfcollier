@@ -39,25 +39,23 @@ I build "Golden Paths" and automation tools that allow engineering teams to ship
 
 ## 🧪 Open Source & PoCs
 
-**1. Python Audio Framework (UMIK-1)**
+**🎤 Python Audio Framework (UMIK-1)**
 - **Concept**: A multi-threaded **"Producer-Consumer"** framework designed for high-stability audio applications (specifically for the MiniDSP UMIK-1).
 - **Architecture**: Decouples Hardware I/O ("The Ear") from Signal Processing ("The Brain") using thread-safe queues. This architecture prevents blocking operations from causing audio glitches or buffer overruns.
 - **Features**: Includes ready-to-run modules for **Real-Time Metering** (RMS/LUFS), **Calibration** (loading UMIK-1 sensitivity files), and **Lossless Recording**.
 - **Links**: [📦 PyPI Page](https://pypi.org/project/umik-base-app) | [💻 Source Code](https://github.com/danielfcollier/py-umik-base-app)
 
-**2. LowOps Edge AI Telemetry**
-- **Concept**: A "Zero-Touch" acoustic monitoring station for edge environments.
+**🍓 LowOps Edge AI Telemetry**
+- **Concept**: A "Zero-Touch" acoustic monitoring station for edge environments (Raspberry Pi).
 - **Links**: [💻 Source Code](https://github.com/danielfcollier/py-edge-ai-acoustic-monitoring-app)
 - **Stack**: Python, `systemd` watchdogs, Google YamNet.
 - **Status**: Production (Personal Use).
 
-<!--
-**3. DriftControl (Self-Healing Loop)**
-- **Concept**: A proof-of-concept **Control Plane** component.
+**🔄 DriftControl (Self-Healing Loop)**
+- **Concept**: A proof-of-concept (Poc) **Control Plane** component.
 - **Logic**: Implements a `Look -> Compare -> Converge` loop (Feedback Control) to enforce configuration state.
-- **Goal**: Eliminates "Configuration Drift" by automatically reverting manual changes without human intervention.
-- **Status**: POC (Python).
--->
+- **Stack**: Python, Docker SDK
+- **Link**: [💻 Source Code](https://github.com/danielfcollier/py-drift-control)
 
 ## 📜 Research & Honors
 
