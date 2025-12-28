@@ -20,13 +20,13 @@ I build "Golden Paths" and automation tools that allow engineering teams to ship
 - **Observability**: OpenTelemetry, Prometheus/Grafana, SLI/SLO Design, RCA.
 
 **Infrastructure & Systems**
-- **Cloud**: Refactored OpenStack SDK logic into service API integrations.
+- **Cloud**: Refactored OpenStack SDK logic into custom microservices API integrations.
 - **Systems**: Linux Automation (`systemd`, Bash), IoT/Edge (Raspberry Pi).
 
 ## 🚀 Impact & Highlights
 
 **Magalu Cloud (Staff-Track)**
-- **DBaaS Control Plane**: Leading the implementation of the Python/FastAPI provisioning engine for the public cloud's database service. Refactored legacy OpenStack SDK logic into service API integrations for higher stability.
+- **DBaaS Control Plane**: Leading the implementation of a **proprietary** Python/FastAPI provisioning engine. Refactored legacy OpenStack SDK logic into custom service microservices API integrations for higher stability.
 - **Terraform Provider**: Fixed and hardened DBaaS resources in the official Go provider, introducing **regression testing** patterns to eliminate recurring bugs.
 - **Operational Excellence**: Leading **Root Cause Analysis (RCA)** initiatives for complex outages and providing Tier-3 technical support, translating critical customer incidents into permanent architectural improvements.
 - **Self-Healing Strategy**: Architecting a reconciliation layer based on Control Loop theory to automatically resolve stuck provisioning states.
