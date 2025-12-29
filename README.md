@@ -39,10 +39,11 @@ I build "Golden Paths" and automation tools that allow engineering teams to ship
 
 ## 🧪 Open Source & PoCs
 
-**🎤 Python Audio Framework (UMIK-1)**
-- **Concept**: A multi-threaded **"Producer-Consumer"** framework designed for high-stability audio applications (specifically for the MiniDSP UMIK-1).
-- **Architecture**: Decouples Hardware I/O ("The Ear") from Signal Processing ("The Brain") using thread-safe queues. This architecture prevents blocking operations from causing audio glitches or buffer overruns.
-- **Features**: Includes ready-to-run modules for **Real-Time Metering** (RMS/LUFS), **Calibration** (loading UMIK-1 sensitivity files), and **Lossless Recording**.
+**🎤 Python Audio Framework (`umik-base-app`)**
+- **Concept**: A modular, multi-threaded framework for building professional audio applications with **MiniDSP UMIK** microphones.
+- **Architecture**: Implements a **Producer-Consumer** model with a **Pipeline Pattern** to decouple hardware I/O ("The Ear") from DSP ("The Brain"), ensuring glitch-free recording even on embedded devices like Raspberry Pi.
+- **Features**: Real-time **LUFS/dBSPL metering**, FIR calibration filtering, zero-allocation buffering, and a suite of forensic analysis CLI tools.
+- **Tech Stack**: Built with modern tooling (`uv`, `ruff`, `mypy`) and scientific libraries (`numpy`, `scipy`, `sounddevice`).
 - **Links**: [📦 PyPI Page](https://pypi.org/project/umik-base-app) | [💻 Source Code](https://github.com/danielfcollier/py-umik-base-app)
 
 **🍓 LowOps Edge AI Telemetry**
@@ -51,11 +52,13 @@ I build "Golden Paths" and automation tools that allow engineering teams to ship
 - **Stack**: Python, `systemd` watchdogs, Google YamNet.
 - **Status**: Production (Personal Use).
 
-**🔄 DriftControl (Self-Healing Loop)**
-- **Concept**: A proof-of-concept (Poc) **Control Plane** component.
-- **Logic**: Implements a `Look -> Compare -> Converge` loop (Feedback Control) to enforce configuration state.
-- **Stack**: Python, Docker SDK
-- **Link**: [💻 Source Code](https://github.com/danielfcollier/py-drift-control)
+**🔄 DriftControl (Self-Healing Infrastructure Agent)**
+
+* **Concept**: A lightweight, **GitOps-driven infrastructure agent** designed to enforce declarative configuration state in local Docker environments.
+* **Architecture**: Built on a **Feedback Control Loop** pattern (Reconciler) with **Multi-Service Isolation**, ensuring that failure in one service does not stall the entire agent. Features thread-safe state management for **Exponential Backoff** strategies to handle crash loops intelligently.
+* **Features**: Automated drift remediation (self-healing), integrated **Prometheus Observability** for health metrics, declarative YAML configuration, and a built-in **Chaos Monkey** for resilience testing and fault injection.
+* **Tech Stack**: Built with robust tooling (`pydantic`, `docker` SDK, `prometheus-client`) and modern CLI interfaces (`rich`).
+* **Link**: [💻 Source Code](https://github.com/danielfcollier/py-drift-control)
 
 ## 📜 Research & Honors
 
