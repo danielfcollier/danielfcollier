@@ -40,11 +40,12 @@ I build "Golden Paths" and automation tools that allow engineering teams to ship
 ## 🧪 Open Source & PoCs
 
 **🎤 Python Audio Framework (`umik-base-app`)**
-- **Concept**: A modular, multi-threaded framework for building professional audio applications with **MiniDSP UMIK** microphones.
-- **Architecture**: Implements a **Producer-Consumer** model with a **Pipeline Pattern** to decouple hardware I/O ("The Ear") from DSP ("The Brain"), ensuring glitch-free recording even on embedded devices like Raspberry Pi.
-- **Features**: Real-time **LUFS/dBSPL metering**, FIR calibration filtering, zero-allocation buffering, and a suite of forensic analysis CLI tools.
-- **Tech Stack**: Built with modern tooling (`uv`, `ruff`, `mypy`) and scientific libraries (`numpy`, `scipy`, `sounddevice`).
-- **Links**: [📦 PyPI Page](https://pypi.org/project/umik-base-app) | [💻 Source Code](https://github.com/danielfcollier/py-umik-base-app)
+
+* **Concept**: A professional framework for building distributed audio applications with **MiniDSP UMIK** microphones.
+* **Architecture**: Implements a **Distributed Producer-Consumer** model (via **ZeroMQ**) to decouple hardware I/O ("The Ear") from DSP ("The Brain"). Supports **Process Isolation** (Daemon Mode) for mission-critical stability on embedded devices.
+* **Features**: Real-time **LUFS/dBSPL metering**, remote network monitoring (IoT), FIR calibration filtering, and a suite of forensic analysis CLI tools.
+* **Tech Stack**: Built with modern tooling (`uv`, `ruff`, `mypy`) and scientific libraries (`numpy`, `scipy`, `pyzmq`).
+* **Links**: [📦 PyPI Page](https://pypi.org/project/umik-base-app) | [💻 Source Code](https://github.com/danielfcollier/py-umik-base-app)
 
 **🍓 LowOps Edge AI Telemetry**
 - **Concept**: A "Zero-Touch" acoustic monitoring station for edge environments (Raspberry Pi).
