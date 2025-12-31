@@ -41,8 +41,8 @@ I build "Golden Paths" and automation tools that allow engineering teams to ship
 
 **🎤 Python Audio Framework (`umik-base-app`)**
 
-* **Concept**: A professional framework for building distributed audio applications with **MiniDSP UMIK** microphones.
-* **Architecture**: Implements a **Distributed Producer-Consumer** model (via **ZeroMQ**) to decouple hardware I/O ("The Ear") from DSP ("The Brain"). Supports **Process Isolation** (Daemon Mode) for mission-critical stability on embedded devices.
+* **Concept**: A multi-process framework designed to bypass **GIL limitations** for professional audio applications (optimized for **MiniDSP UMIK**).
+* **Architecture**: Implements a **ZeroMQ transport layer** that isolates hardware I/O ("The Ear") from heavy DSP computation ("The Brain"). This ensures glitch-free audio streams for local **Edge processing** or remote network broadcasting.
 * **Features**: Real-time **LUFS/dBSPL metering**, remote network monitoring (IoT), FIR calibration filtering, and a suite of forensic analysis CLI tools.
 * **Tech Stack**: Built with modern tooling (`uv`, `ruff`, `mypy`) and scientific libraries (`numpy`, `scipy`, `pyzmq`).
 * **Links**: [📦 PyPI Page](https://pypi.org/project/umik-base-app) | [💻 Source Code](https://github.com/danielfcollier/py-umik-base-app)
