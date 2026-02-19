@@ -1,70 +1,8 @@
-# Staff Platform Engineer (M.Sc.)
+# Senior Backend Engineer
 
-> "Applying Engineering Rigor to Cloud Infrastructure."
+I build backend systems that power both internal platforms and customer-facing products - provisioning engines, lifecycle managers, and APIs designed for reliability at scale.
 
-I am a **Staff Platform Engineer** specializing in **Reliability**, **Internal Developer Platforms (IDP)**, and **Control Planes**.
+Currently building DBaaS products with Python/FastAPI, RabbitMQ, and PostgreSQL. Background in Electrical Engineering (M.Sc.) with early roots in software (Linux, Python, Java, 2004).
 
-With a background in **Control Theory (M.Sc.)** and 12+ years in software, I treat infrastructure as a deterministic system. I apply feedback loops, state convergence, and stability analysis to build self-healing cloud platforms.
-
-### 🧠 The Philosophy: LowOps
-I build "Golden Paths" and automation tools that allow engineering teams to ship features without getting bogged down in operations.
-- **Platform Engineering**: Architecting control planes that standardize the lifecycle of stateful workloads.
-- **Reliability Engineering**: Designing systems that detect and resolve their own faults (Self-Healing).
-
-## 🛠️ Technical Stack
-
-**Platform & Automation**
-- **Languages**: Python (Expert - FastAPI, Multithreading, State Machines), Go (Tooling/Providers).
-- **Architecture**: Microservices, Event-Driven Architecture (EDA), RESTful APIs.
-- **Orchestration**: Kubernetes (Workload Management), Terraform (Provider Dev), Ansible.
-- **Observability**: OpenTelemetry, Prometheus/Grafana, SLI/SLO Design, RCA.
-
-**Infrastructure & Systems**
-- **Cloud**: Refactored OpenStack SDK logic into custom microservices API integrations.
-- **Systems**: Linux Automation (`systemd`, Bash), IoT/Edge (Raspberry Pi).
-
-## 🚀 Impact & Highlights
-
-**Magalu Cloud (Staff-Track)**
-- **DBaaS Control Plane**: Leading the implementation of a **proprietary** Python/FastAPI provisioning engine. Refactored legacy OpenStack SDK logic into custom service microservices API integrations for higher stability.
-- **Terraform Provider**: Fixed and hardened DBaaS resources in the official Go provider, introducing **regression testing** patterns to eliminate recurring bugs.
-- **Operational Excellence**: Leading **Root Cause Analysis (RCA)** initiatives for complex outages and providing Tier-3 technical support, translating critical customer incidents into permanent architectural improvements.
-- **Self-Healing Strategy**: Architecting a reconciliation layer based on Control Loop theory to automatically resolve stuck provisioning states.
-- **Technical Strategy**: Authored **ADRs** and technical documentation to standardize architecture patterns across the DBaaS tribe.
-
-**Tuna Payments**
-- **Developer Experience (DX)**: Engineered a "Docs-as-Code" pipeline to auto-generate OpenAPI specs, streamlining partner integrations.
-- **Integration Reliability**: Optimized the data bridge between merchant frontends and backend payment cores to ensure analytical accuracy.
-- **External Integrations**: Developed .NET Core services to handle XML invoice signing and integration with municipal government APIs, ensuring compliance and reliability.
-
-## 🧪 Open Source & PoCs
-
-**🎤 Python Audio Framework (`umik-base-app`)**
-
-* **Concept**: A multi-process framework designed to bypass **GIL limitations** for professional audio applications (optimized for **MiniDSP UMIK**).
-* **Architecture**: Implements a **ZeroMQ transport layer** that isolates hardware I/O ("The Ear") from heavy DSP computation ("The Brain"). This ensures glitch-free audio streams for local **Edge processing** or remote network broadcasting.
-* **Features**: Real-time **LUFS/dBSPL metering**, remote network monitoring (IoT), FIR calibration filtering, and a suite of forensic analysis CLI tools.
-* **Tech Stack**: Built with modern tooling (`uv`, `ruff`, `mypy`) and scientific libraries (`numpy`, `scipy`, `pyzmq`).
-* **Links**: [📦 PyPI Page](https://pypi.org/project/umik-base-app) | [💻 Source Code](https://github.com/danielfcollier/py-umik-base-app)
-
-**🍓 LowOps Edge AI Telemetry**
-- **Concept**: A "Zero-Touch" acoustic monitoring station for edge environments (Raspberry Pi).
-- **Links**: [💻 Source Code](https://github.com/danielfcollier/py-edge-ai-acoustic-monitoring-app)
-- **Stack**: Python, `systemd` watchdogs, Google YamNet.
-- **Status**: Production (Personal Use).
-
-**🔄 DriftControl (Self-Healing Infrastructure Agent)**
-
-* **Concept**: A lightweight, **GitOps-driven infrastructure agent** designed to enforce declarative configuration state in local Docker environments.
-* **Architecture**: Built on a **Feedback Control Loop** pattern (Reconciler) with **Multi-Service Isolation**, ensuring that failure in one service does not stall the entire agent. Features thread-safe state management for **Exponential Backoff** strategies to handle crash loops intelligently.
-* **Features**: Automated drift remediation (self-healing), integrated **Prometheus Observability** for health metrics, declarative YAML configuration, and a built-in **Chaos Monkey** for resilience testing and fault injection.
-* **Tech Stack**: Built with robust tooling (`pydantic`, `docker` SDK, `prometheus-client`) and modern CLI interfaces (`rich`).
-* **Link**: [💻 Source Code](https://github.com/danielfcollier/py-drift-control)
-
-## 📜 Research & Honors
-
-- **M.Sc. Electrical Engineering**: Focus on Modeling & Control of Wind Energy Conversion Systems (UFSC).
-- **Innovation Award (1st Place)**: Awarded by **WEG Electric Corp.** for innovation in Motor Control.
-- **Patent Holder**: Co-inventor of "Current Self-Control Applied to Three-Phase Electric Generators".
-
-[LinkedIn](https://www.linkedin.com/in/danielfcollier/) | [ResearchGate](https://www.researchgate.net/profile/Daniel-A-F-Collier/research)
+**Stack:** Python · FastAPI · SQLAlchemy · RabbitMQ · PostgreSQL · Redis · Kubernetes · Terraform · Docker
+**Focus:** Event-driven architecture · Eventual consistency · State machines · Product reliability
