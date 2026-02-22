@@ -1,6 +1,6 @@
 # Senior Software Engineer
 
-I build backend systems that power both internal platforms and customer-facing products - provisioning engines, lifecycle managers, and APIs serving for reliability at scale.
+I build backend systems that power both internal platforms and customer-facing products - provisioning engines, lifecycle managers, and cloud-native APIs serving for reliability at scale.
 
 Currently building DBaaS products with Python/FastAPI, RabbitMQ, and PostgreSQL. Background in Electrical Engineering (M.Sc.) with early roots in software (Linux, Python, Java, 2004).
 
