@@ -12,7 +12,7 @@ Currently building DBaaS products with Python/FastAPI, RabbitMQ, and PostgreSQL.
 ## Technical Stack
 - **Languages:** Python, Go (tooling), Bash, JavaScript/TypeScript
 - **Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic, asyncio, Celery, Pytest
-- **Architecture:** Event-Driven Microservices, State Machines, Eventual Consistency, RESTful APIs, gRPC
+- **Architecture:** Microservices, Event-Driven Architecture, RESTful APIs
 - **Messaging**: RabbitMQ, ZeroMQ
 - **Databases:** PostgreSQL, MySQL, Redis
 - **Infrastructure:** Linux, Ansible, Terraform, Docker/Docker Compose, ArgoCD/Kubernetes
