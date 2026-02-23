@@ -16,6 +16,6 @@ Currently building DBaaS products with Python/FastAPI, RabbitMQ, and PostgreSQL.
 - **Messaging**: RabbitMQ, ZeroMQ
 - **Databases:** PostgreSQL, MySQL, Redis
 - **Infrastructure:** Linux, Ansible, Terraform, Docker/Docker Compose, ArgoCD/Kubernetes
-- **Observability:** OpenSearch, Jaeger, Prometheus, Grafana, SLI/SLO Design, RCA
+- **Observability:** OpenSearch, Jaeger, Prometheus, Grafana, SLI/SLO Design
 - **CI/CD:** GitLab CI, GitHub Actions
 - **Cloud Computing:** VMs, Block Storage, VPC, Security Groups, S3
