@@ -1,6 +1,10 @@
 # Senior Software Engineer
 
-I'm building backend systems that serve both customer-facing products and internal platforms, powering reliable experiences at scale. Currently core member of the DBaaS Orchestration tribe for a major Public Cloud provider, focused on making stateful infrastructure reliable and improving product quality through frontline support insights. I build systems where failure handling is a first-class concern, not an afterthought. I'm actively building AI-integrated applications - from real-time ML inference on edge devices to LLM orchestration tools - applying the same backend engineering rigor to AI-powered systems.
+I'm building backend systems that serve both customer-facing products and internal platforms, powering reliable experiences at scale.
+
+Currently core member of the DBaaS Orchestration tribe for a major Public Cloud provider, focused on making stateful infrastructure reliable and improving product quality through frontline support insights. I build systems where failure handling is a first-class concern, not an afterthought.
+
+I'm actively building AI-integrated applications, from real-time ML inference on edge devices to LLM orchestration tools - applying the same backend engineering rigor to AI-powered systems.
 
 Background in Electrical Engineering (M.Sc.) with early exposure to software through embedded systems and research computing. Patent holder and published researcher with work cited internationally.
 
